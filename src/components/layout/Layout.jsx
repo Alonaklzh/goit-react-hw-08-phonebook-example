@@ -17,12 +17,7 @@ const Layout = () => {
         </Suspense>
       </PageContainer>
 
-      <Footer>
-        <p>
-          homework
-          <a href="https://github.com/hvoarang"> Denys iElkin</a> goit-react-hw-08-phonebook
-        </p>
-      </Footer>
+      
     </Container>
   );
 };
